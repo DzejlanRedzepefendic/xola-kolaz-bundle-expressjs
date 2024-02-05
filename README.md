@@ -75,7 +75,7 @@ This version of ExpressJS Bundle requires Kolaz v0.2.0.
 ### Step 1: Download
 
 ```shell script
-npm install kolaz-bundle-expressjs
+npm install xola-kolaz-bundle-expressjs
 ```
 
 ### Step 2: Enable
